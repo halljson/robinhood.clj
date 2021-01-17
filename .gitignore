@@ -1,0 +1,13 @@
+pom.xml*
+*jar
+/lib/
+/classes/
+/target/
+.nrepl-port
+.lein-repl-history
+.lein-deps-sum
+.lein-failures
+*.swp
+autodoc/**
+*.DS_Store
+dev-fixtures
